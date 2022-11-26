@@ -1,0 +1,48 @@
+[{
+    "id": 1,
+    "name": "Persian Cat",
+    "price": 100,
+    "image": "/Souq.Cat/1.jpg",
+    "sound": "Miaw Miaw Miaw",
+    "description": "The Persian cat (Persian: گربه پارسی, romanized: Gorbe'-ye Pârsi), also known as the Persian longhair, is a long-haired breed of cat characterized by a round face and short muzzle. The first documented ancestors of Persian cats were imported into Italy from Persia around 1620. Widely recognized by cat fancy since the late 19th century, Persian cats were first adopted by the British, and later by American breeders after World War II. Some cat fancier organizations' breed standards subsume the Himalayan and Exotic Shorthair as variants of this breed, while others generally treat them as separate breeds."
+  },
+  {
+    "id": 2,
+    "name": "Bengal Cat",
+    "price": 150,
+    "image": "/Souq.Cat/2.jpg",
+    "sound": "Meong Meong Meong",
+    "description": "The Bengal cat is a domesticated cat breed created from a hybrid of the Asian leopard cat (Prionailurus bengalensis), with domestic cats, especially the spotted Egyptian Mau. The breed name comes from the leopard cat's taxonomic name. Bengals have a wild appearance; their golden shimmer comes from their leopard cat ancestry, and their coats may show spots, rosettes, arrowhead markings, or marbling. They are an energetic breed which needs much exercise and play."
+  },
+  {
+    "id": 3,
+    "name": "Abyssinian Cat",
+    "price": 120,
+    "image": "/Souq.Cat/3.jpg",
+    "sound": "Miaong Miaong Miaong",
+    "description": "The Abyssinian is a breed of domestic short-haired cat with a distinctive ticked tabby coat, in which individual hairs are banded with different colors. They are also known simply as Abys. The source of the name is not because Ethiopia, formerly Abyssinia, is thought to be the original home of these cats, but because the first Abyssinians exhibited in shows in England were reported to have been imported to England from there. Its true origin  according to genetic studies is likely to have been the coast of the Indian Ocean in parts of Southeast Asia, and its introduction to Abyssinia (and others) was through colonialists and merchants stopping through Calcutta. Although regarded as comparatively obscure in the past as a breed compared to others, the Abyssinian ranked in 2016 among the top five most popular breeds by The Cat Fancier Association and The International Cat Association."
+  },
+  {
+    "id": 4,
+    "name": "Siberian Cat",
+    "price": 170,
+    "image": "/Souq.Cat/4.jpg",
+    "sound": "Aung Aung Aung",
+    "description": "The Siberian is a centuries-old landrace (natural variety) of domestic cat in Russia and recently developed as a formal breed with standards promulgated the world over since the late 1980s. Siberians vary from medium to medium-large in size. The formal name of the breed is Siberian Forest Cat, but it is typically referred to as the Siberian or Siberian cat. Another formal breed name is the Moscow Semi-Longhair. The cat is an ancient breed that is now believed to be ancestral to all modern long-haired cats. The cat has similarities with the Norwegian forest cat, to which it is likely closely related. It is a natural breed from Siberia and the national cat of Russia. While it began as a landrace, it is selectively bred and pedigreed today in at least seven major cat fancier and breeder organizations. The colorpoint variant of the breed is called the Neva Masquerade by some registries, including Fédération Internationale Féline (FIFé)."
+  },
+  {
+    "id": 5,
+    "name": "Burmese Cat",
+    "price": 110,
+    "image": "/Souq.Cat/5.png",
+    "sound": "Rawng Rawng Rawng",
+    "description": "The Burmese cat (Burmese: ဗမာကြောင်, Băma kyaung, Thai: ทองแดง or ศุภลักษณ์, RTGS: Thongdaeng or Supphalak, meaning copper colour) is a breed of domestic cat, originating in Burma, believed to have its roots near the Thai-Burma border and developed in the United States and Britain. Most modern Burmese are descendants of one female cat called Wong Mau, which was brought from Burma to America in 1930 and bred with American Siamese. From there, American and British breeders developed distinctly different Burmese breed standards, which is unusual among pedigreed domestic cats. Most modern cat registries do not formally recognize the two as separate breeds, but those that do refer to the British type as the European Burmese."
+  }, {
+    "id": 6,
+    "name": "Korat Cat",
+    "price": 200,
+    "image": "/Souq.Cat/6.jpg",
+    "sound": "Awrr Awrr Awrr",
+    "description": "The Korat cat (Thai: โคราช, มาเลศ, สีสวาด, RTGS: Khorat, Malet, Si sawat) is a silver-tipped blue-grey, short-haired breed of domestic cat with a small to medium build and a low percentage of body fat. Its body is semi-cobby, and unusually heavy for its size. It is an intelligent and playful active cat that forms strong bonds with people and is very vocal, with a sound different from other breeds. Among the Korat's distinguishing characteristics are its heart-shaped head, its large green eyes. Its front paws are shorter than the back paws. The Korat is a natural breed, and one of the oldest stable cat breeds, and one of the very few that has not changed its appearance throughout centuries. Originating in Phimai, Thailand, it is named after its province of origin, Nakhon Ratchasima Province (typically called 'Korat' by the Thai people). In Thailand, the breed is known as Si sawat, meaning colour of the sawat seed. The Korat is known colloquially as the 'good luck cat'. Traditionally, they are given in pairs to newlyweds or people who are highly esteemed, for good luck"
+  }
+]
