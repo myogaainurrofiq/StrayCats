@@ -1,10 +1,12 @@
-const jsonServer = require('json-server');
-const server = jsonServer.create();
-const router = jsonServer.router('products.json'); // <== Will be created later
-const middlewares = jsonServer.defaults();
-const port = process.env.PORT || 3200; // <== You can change the port
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import App from './App';
+import * as serviceWorker from './serviceWorker';
 
-server.use(middlewares);
-server.use(router);
+ReactDOM.render(<App />, document.getElementById('root'));
 
-server.listen(port);
+// If you want your app to work offline and load faster, you can change
+// unregister() to register() below. Note this comes with some pitfalls.
+// Learn more about service workers: https://bit.ly/CRA-PWA
+serviceWorker.unregister();
